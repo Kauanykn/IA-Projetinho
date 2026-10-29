@@ -11,13 +11,13 @@
 
 ## Registro da execução
 
-- Data da revisão:
-- Responsável:
-- Fontes verificadas:
-- Resultado por critério:
-- Pendências ou riscos:
-- Decisão: Pendente / Aprovado para merge / Bloqueado
+- Data da revisão: 29/10/2026
+- Responsável: implementação assistida
+- Fontes verificadas: tentativa de consulta à página oficial indicada; indisponível nesta execução. Fonte antiga não fornecida.
+- Resultado por critério: pendente; não há evidências suficientes para confirmar a lista de cursos nem as matrizes.
+- Pendências ou riscos: obter a fonte antiga com a coordenação e consultar novamente a página oficial. Não publicar conteúdo curricular sem validação.
+- Decisão: Bloqueado para aprovação do inventário.
 
 ## Evidências
 
-Registre links, arquivos ou referências que permitam conferir a cobertura do inventário e a origem dos dados. Marque Aprovado para merge somente quando todos os critérios aplicáveis estiverem concluídos e as pendências estiverem documentadas.
+Registre links, arquivos ou referências que permitam conferir a cobertura do inventário e a origem dos dados. Marque Aprovado para merge somente quando todos os critérios aplicáveis estiverem concluídos e as pendências estiverem documentadas. A aplicação permanece preparada para receber os dados em `server/catalog.ts`, mas isso não substitui a validação do inventário.

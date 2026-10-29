@@ -1,5 +1,13 @@
 # Plano — Inventário de cursos técnicos
 
+## Situação da execução
+
+- A fonte antiga de matrizes não foi fornecida.
+- A página oficial `https://etecsalesgomes.cps.sp.gov.br/ensino-tecnico/` não respondeu às tentativas de consulta em 29/10/2026.
+- Nenhum curso, disciplina ou descrição foi incluído como confirmado sem evidência.
+- A aplicação exibe o catálogo como pendente até que as fontes sejam verificadas.
+- Próximo passo: obter o link da fonte antiga com a coordenação e repetir a consulta à referência oficial.
+
 ## Fontes
 
 1.1. Confirmar a página oficial da Etec Sales Gomes como referência para definir os cursos incluídos.
